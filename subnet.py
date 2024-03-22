@@ -44,10 +44,10 @@ p7First = '17.11.78.49'
 p7Last = '17.11.78.54'
 
 #problem 8
-p8Network = '184.253.40.0'
-p8Broadcast = '184.253.40.63'
-p8First = '184.253.40.1'
-p8Last = '184.253.40.62'
+p8Network = ' 184.253.40.64'
+p8Broadcast = '184.253.40.127'
+p8First = '184.253.40.65'
+p8Last = '184.253.40.126'
 
 #problem 9
 p9Network = '95.238.2.0'
